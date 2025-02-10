@@ -1,8 +1,8 @@
-# React + Vite
 
-# Live link:
+![Gadgets_Heavent](https://github.com/user-attachments/assets/1936b2ac-1bfc-4b4b-8c37-87a39ef7aeac)
 
-https://gadgetheavenshop.netlify.app
+# Live views:  
+ [Gadgets_Heavent](https://gadgetheavenshop.netlify.app)
 
 Project Name: Gadgets Heavent
 
