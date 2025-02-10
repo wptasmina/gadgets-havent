@@ -1,5 +1,6 @@
 
-![Gadgets_Heavent](https://github.com/user-attachments/assets/1936b2ac-1bfc-4b4b-8c37-87a39ef7aeac)
+![Gadgets_Heavent](https://github.com/user-attachments/assets/e501eca0-4e2d-4ed8-a018-de069c6df0e8)
+
 
 # Live views:  
  [Gadgets_Heavent](https://gadgetheavenshop.netlify.app)
